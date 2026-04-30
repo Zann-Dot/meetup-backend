@@ -1,0 +1,268 @@
+[
+  {
+    "meetName": "React Developers Meetup",
+    "isOnline": false,
+    "imageUrl": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=2070&auto=format&fit=crop",
+    "hosted": "Tech Community Bangalore",
+    "details": "Join us for an evening of deep dives into React 19, Server Components, and the future of frontend development. Network with fellow developers and share your experiences.",
+    "additionalInfo": {
+      "dressCode": "Smart Casual",
+      "requirement": "Please carry a valid ID card",
+      "equipment": "Laptops are optional"
+    },
+    "eventTags": ["React", "Frontend", "JavaScript", "Web Development"],
+    "sessionStartTime": "Wednesday May 15 2024 at 06:00:00 PM",
+    "sessionEndTime": "Wednesday May 15 2024 at 09:00:00 PM",
+    "eventVenue": "WeWork Galaxy, Residency Road, Bengaluru",
+    "isPaid": true,
+    "paidRupees": 299,
+    "speakers": [
+      {
+        "name": "Jane Doe",
+        "designation": "Senior Frontend Engineer, Google",
+        "imageUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "name": "John Smith",
+        "designation": "React Core Team Member",
+        "imageUrl": "https://randomuser.me/api/portraits/men/46.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "Node.js Microservices Workshop",
+    "isOnline": true,
+    "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=2070&auto=format&fit=crop",
+    "hosted": "Backend Coders Connect",
+    "details": "A hands-on workshop on building scalable microservices using Node.js, Express, and Docker. We will cover architecture patterns, deployment strategies, and best practices.",
+    "additionalInfo": {
+      "prerequisites": "Basic knowledge of Node.js",
+      "communication": "Zoom link will be shared 24 hours prior to the event"
+    },
+    "eventTags": ["Node.js", "Microservices", "Docker", "Backend"],
+    "sessionStartTime": "Monday June 10 2024 at 10:00:00 AM",
+    "sessionEndTime": "Monday June 10 2024 at 02:00:00 PM",
+    "eventVenue": "Online (Zoom)",
+    "isPaid": false,
+    "paidRupees": 0,
+    "speakers": [
+      {
+        "name": "Alice Johnson",
+        "designation": "Software Architect, Amazon",
+        "imageUrl": "https://randomuser.me/api/portraits/women/68.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "AI in Healthcare Symposium",
+    "isOnline": false,
+    "imageUrl": "https://images.unsplash.com/photo-1576091160550-2173ff9e5eb2?q=80&w=2068&auto=format&fit=crop",
+    "hosted": "HealthTech Innovations",
+    "details": "Explore how Artificial Intelligence is revolutionizing the healthcare industry. Featuring keynote speeches from industry leaders and panel discussions on the ethical implications of AI in medicine.",
+    "additionalInfo": {
+      "foodAndBeverage": "Lunch and refreshments provided",
+      "networking": "Networking session follows the main event"
+    },
+    "eventTags": ["AI", "Healthcare", "Machine Learning", "Innovation"],
+    "sessionStartTime": "Saturday July 20 2024 at 09:00:00 AM",
+    "sessionEndTime": "Saturday July 20 2024 at 05:00:00 PM",
+    "eventVenue": "Taj Lands End, Mumbai",
+    "isPaid": true,
+    "paidRupees": 1500,
+    "speakers": [
+      {
+        "name": "Dr. Sarah Lee",
+        "designation": "Chief Medical Officer, HealthAI",
+        "imageUrl": "https://randomuser.me/api/portraits/women/32.jpg"
+      },
+      {
+        "name": "Mark Davis",
+        "designation": "VP of Engineering, MedTech Solutions",
+        "imageUrl": "https://randomuser.me/api/portraits/men/32.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "Marketing Strategies 2024",
+    "isOnline": true,
+    "imageUrl": "https://images.unsplash.com/photo-1557804506-669a67965ba0?q=80&w=1974&auto=format&fit=crop",
+    "hosted": "Global Marketers Network",
+    "details": "Dive into the latest marketing trends and strategies that will dominate 2024. Learn from top industry experts about SEO, content marketing, and leveraging social media effectively.",
+    "additionalInfo": {
+      "recording": "A recording of the session will be provided to all attendees.",
+      "qAndA": "Q&A session included at the end."
+    },
+    "eventTags": ["Marketing", "SEO", "Content Creation", "Social Media"],
+    "sessionStartTime": "Monday August 12 2024 at 02:00:00 PM",
+    "sessionEndTime": "Monday August 12 2024 at 05:00:00 PM",
+    "eventVenue": "Online (Google Meet)",
+    "isPaid": false,
+    "paidRupees": 0,
+    "speakers": [
+      {
+        "name": "Alex Carter",
+        "designation": "CMO, StartupX",
+        "imageUrl": "https://randomuser.me/api/portraits/men/55.jpg"
+      },
+      {
+        "name": "Maria Lopez",
+        "designation": "Head of Content, Creatives Inc.",
+        "imageUrl": "https://randomuser.me/api/portraits/women/65.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "Startup Pitch Deck Workshop",
+    "isOnline": false,
+    "imageUrl": "https://images.unsplash.com/photo-1556761175-5973dc0f32d7?q=80&w=1932&auto=format&fit=crop",
+    "hosted": "Founders Club India",
+    "details": "Learn how to craft the perfect pitch deck to attract investors. We will review successful pitch decks, discuss common pitfalls, and offer live feedback on your presentations.",
+    "additionalInfo": {
+      "preparation": "Please bring your current pitch deck if you want live feedback.",
+      "perks": "Networking dinner included."
+    },
+    "eventTags": ["Startup", "Pitching", "Investment", "Entrepreneurship"],
+    "sessionStartTime": "Thursday September 05 2024 at 10:00:00 AM",
+    "sessionEndTime": "Thursday September 05 2024 at 04:00:00 PM",
+    "eventVenue": "The Hive, Koramangala, Bengaluru",
+    "isPaid": true,
+    "paidRupees": 999,
+    "speakers": [
+      {
+        "name": "David Kumar",
+        "designation": "Partner, Alpha Ventures",
+        "imageUrl": "https://randomuser.me/api/portraits/men/75.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "Web3 & Blockchain Summit",
+    "isOnline": false,
+    "imageUrl": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?q=80&w=2069&auto=format&fit=crop",
+    "hosted": "Crypto Enthusiasts",
+    "details": "A full-day summit covering the latest advancements in Web3, decentralized finance (DeFi), and NFTs. Connect with developers and founders building the future of the internet.",
+    "additionalInfo": {
+      "ticketOffers": "Early bird tickets available until Sept 1st.",
+      "inclusions": "Includes access to all panel discussions and technical workshops."
+    },
+    "eventTags": ["Web3", "Blockchain", "Crypto", "DeFi"],
+    "sessionStartTime": "Tuesday October 22 2024 at 09:00:00 AM",
+    "sessionEndTime": "Tuesday October 22 2024 at 06:00:00 PM",
+    "eventVenue": "Jio World Convention Centre, Mumbai",
+    "isPaid": true,
+    "paidRupees": 2500,
+    "speakers": [
+      {
+        "name": "Samantha Wright",
+        "designation": "Founder, BlockTech",
+        "imageUrl": "https://randomuser.me/api/portraits/women/85.jpg"
+      },
+      {
+        "name": "Ravi Patel",
+        "designation": "Lead Blockchain Developer",
+        "imageUrl": "https://randomuser.me/api/portraits/men/85.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "UX/UI Design Masterclass",
+    "isOnline": true,
+    "imageUrl": "https://images.unsplash.com/photo-1561070791-2526d30994b5?q=80&w=2000&auto=format&fit=crop",
+    "hosted": "Design Thinkers Network",
+    "details": "An intensive masterclass on creating intuitive and visually stunning user interfaces. We will cover the psychology of design, accessibility, and modern prototyping tools like Figma.",
+    "additionalInfo": {
+      "prerequisites": "Basic understanding of design principles",
+      "certification": "Certificate of completion will be provided"
+    },
+    "eventTags": ["UX", "UI", "Design", "Figma"],
+    "sessionStartTime": "Friday November 15 2024 at 04:00:00 PM",
+    "sessionEndTime": "Friday November 15 2024 at 08:00:00 PM",
+    "eventVenue": "Online (Zoom)",
+    "isPaid": true,
+    "paidRupees": 799,
+    "speakers": [
+      {
+        "name": "Elena Rodriguez",
+        "designation": "Principal Product Designer, Apple",
+        "imageUrl": "https://randomuser.me/api/portraits/women/24.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "Cybersecurity for Developers",
+    "isOnline": false,
+    "imageUrl": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=2070&auto=format&fit=crop",
+    "hosted": "InfoSec India",
+    "details": "Learn how to build secure applications from the ground up. This session will cover common vulnerabilities (OWASP Top 10), secure coding practices, and threat modeling.",
+    "additionalInfo": {
+      "laptopRequired": "Yes, for hands-on exercises",
+      "level": "Intermediate"
+    },
+    "eventTags": ["Cybersecurity", "Security", "Development", "OWASP"],
+    "sessionStartTime": "Saturday December 07 2024 at 10:00:00 AM",
+    "sessionEndTime": "Saturday December 07 2024 at 05:00:00 PM",
+    "eventVenue": "Tech Park One, Pune",
+    "isPaid": false,
+    "paidRupees": 0,
+    "speakers": [
+      {
+        "name": "Michael Chang",
+        "designation": "Security Researcher, CyberShield",
+        "imageUrl": "https://randomuser.me/api/portraits/men/33.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "Python Data Science Bootcamp",
+    "isOnline": true,
+    "imageUrl": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=2070&auto=format&fit=crop",
+    "hosted": "Data Pioneers",
+    "details": "A comprehensive bootcamp covering Python for data analysis. Learn to use Pandas, NumPy, and Matplotlib to extract insights from real-world datasets.",
+    "additionalInfo": {
+      "materials": "All datasets and notebooks will be shared via GitHub",
+      "support": "Dedicated Discord channel for Q&A"
+    },
+    "eventTags": ["Python", "Data Science", "Machine Learning", "Pandas"],
+    "sessionStartTime": "Sunday January 12 2025 at 09:00:00 AM",
+    "sessionEndTime": "Sunday January 12 2025 at 01:00:00 PM",
+    "eventVenue": "Online (Teams)",
+    "isPaid": true,
+    "paidRupees": 1200,
+    "speakers": [
+      {
+        "name": "Dr. Anita Desai",
+        "designation": "Lead Data Scientist, Insight Analytics",
+        "imageUrl": "https://randomuser.me/api/portraits/women/52.jpg"
+      },
+      {
+        "name": "Tom Baker",
+        "designation": "Senior Data Engineer",
+        "imageUrl": "https://randomuser.me/api/portraits/men/15.jpg"
+      }
+    ]
+  },
+  {
+    "meetName": "Cloud Native Architecture",
+    "isOnline": false,
+    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop",
+    "hosted": "Cloud Computing Community",
+    "details": "Discover the principles of cloud-native architecture. We will explore Kubernetes, serverless computing, and how to design systems for high availability and scalability.",
+    "additionalInfo": {
+      "audience": "Software Engineers, System Administrators",
+      "swag": "Exclusive t-shirts for all attendees"
+    },
+    "eventTags": ["Cloud", "Kubernetes", "AWS", "Architecture"],
+    "sessionStartTime": "Wednesday February 19 2025 at 03:00:00 PM",
+    "sessionEndTime": "Wednesday February 19 2025 at 07:00:00 PM",
+    "eventVenue": "Cyber Hub, Gurugram",
+    "isPaid": false,
+    "paidRupees": 0,
+    "speakers": [
+      {
+        "name": "Kavya Menon",
+        "designation": "Cloud Solutions Architect, Microsoft",
+        "imageUrl": "https://randomuser.me/api/portraits/women/11.jpg"
+      }
+    ]
+  }
+]
