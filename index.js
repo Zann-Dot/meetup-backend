@@ -30,6 +30,18 @@ app.get("/events", async (req, res) => {
   }
 });
 
+app.get("/events/:eventId", async (req, res) => {
+  try {
+    const eventById = await Events.findById(req.params.eventId);
+    if (!eventById) return res.status(404).json({ error: "Cannot find event" });
+
+    res.json(eventById);
+  } catch (error) {
+    console.error(error);
+    res.status(500).json({ error: error.message });
+  }
+});
+
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
