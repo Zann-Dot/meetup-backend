@@ -12,9 +12,6 @@ app.use(express.json());
 app.use(cors(corsOption));
 initializeDatabase();
 
-import fs from "fs";
-const jsondata = fs.readFileSync("seedingData/eventsData.json");
-const eventsData = JSON.parse(jsondata);
 const PORT = 3000;
 
 app.get("/events", async (req, res) => {
