@@ -25,7 +25,7 @@ const seedData = async () => {
     throw error;
   }
 };
-seedData();
+// seedData();
 
 app.get("/events", async (req, res) => {
   try {
