@@ -11,8 +11,21 @@ const corsOption = {
 app.use(express.json());
 app.use(cors(corsOption));
 initializeDatabase();
+import fs from "fs";
+const json = fs.readFileSync("seedingData/eventsData.json");
+const events = JSON.parse(json);
 
 const PORT = 3000;
+
+const seedData = async () => {
+  try {
+    await Events.deleteMany({});
+    await Events.insertMany(events);
+  } catch (error) {
+    throw error;
+  }
+};
+seedData();
 
 app.get("/events", async (req, res) => {
   try {
