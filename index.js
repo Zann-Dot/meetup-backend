@@ -18,7 +18,7 @@ app.get("/events", async (req, res) => {
   try {
     const events = await Events.find();
     if (events.length === 0)
-      return res.status(404).json({ error: "Book not found" });
+      return res.status(404).json({ error: "Events not found" });
 
     res.status(200).json(events);
   } catch (error) {
